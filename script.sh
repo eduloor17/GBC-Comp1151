@@ -1,0 +1,3 @@
+#comment
+pwd
+mkdir wednesday

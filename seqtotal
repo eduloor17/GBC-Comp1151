@@ -1,0 +1,7 @@
+# set total
+
+let a=1
+let b=2
+let c=3
+let total=a+b+c
+echo $total
